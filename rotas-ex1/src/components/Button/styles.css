@@ -5,7 +5,8 @@
   max-width: 960px;
 }
 
-.button button {
+.button-text {
+  display: flex;
   border-radius: 6px;
   background-color: var(--color-bg-secondary);
   width: 150px;

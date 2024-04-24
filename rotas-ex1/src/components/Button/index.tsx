@@ -9,7 +9,7 @@ export default function Button({text}: Props){
     return (
 
         <div className="button">
-            <button>{text}</button>
+            <div className="button-text">{text}</div>
         </div>
     );
 }
