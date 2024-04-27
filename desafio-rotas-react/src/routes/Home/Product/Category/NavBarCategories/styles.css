@@ -1,0 +1,11 @@
+.navbar-categories {
+  width: 960px;
+  height: 60px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.navbar-categories p {
+  display: inline;
+}
